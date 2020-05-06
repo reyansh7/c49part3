@@ -1,0 +1,19 @@
+    h1 {
+      color:(0,0,0)
+    }
+    .header{
+        background-color:(255,0,0);
+    display:flex;
+    justify-content:space-evenly
+    }
+    .games{
+        background-color: #1a3e4f;
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-evenly
+    }
+    .socialmedia{
+        background-color:#3a4f0e;
+        
+    }
+    
